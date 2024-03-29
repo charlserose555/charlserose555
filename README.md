@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @charlserose555
 - I am a Full Stack & Blockchain developer
 - Blockchain: 
-    Ethereum, Solana, Solidity, Rust, Anchor
+    Ethereum, Solana, ICP, Solidity, Rust, Anchor
     DApps, DeFi, DAO, Dex, Marketplace, ERC20, ERC721, ERC1155, SPL, Token 2022
 - Frontend: 
     HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js Vue.js Next.js, Angular.js
 - Backend: 
-    Express.js, Laravel, Django
+    Express.js, Laravel, Django, Rust, Ruby
 - Database: 
     Google Cloud, MySQL NoSQL, Databases, Redis, PostgreSQL, MongoDB, CouchDB
 - Mobile: 
