@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @charlserose555
 - I am a Full Stack & Blockchain developer
-- Blockchain
+- Blockchain: 
     Ethereum, Solana, Solidity, Rust, Anchor
     DApps, DeFi, DAO, Dex, Marketplace, ERC20, ERC721, ERC1155, SPL, Token 2022
-- Frontend
+- Frontend: 
     HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js Vue.js Next.js, Angular.js
-- Backend
+- Backend: 
     Express.js, Laravel, Django
-- Database
+- Database: 
     Google Cloud, MySQL NoSQL, Databases, Redis, PostgreSQL, MongoDB, CouchDB
-- Mobile
+- Mobile: 
     Java, Kotlin, Flutter, React Native, Swift
-- Other
+- Other: 
     Agile, Scrum, Git
 <!---
 charlserose555/charlserose555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
