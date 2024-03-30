@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlserose555
+- **👋 Hi, I’m @charlserose555**
 - I am a Full Stack & Blockchain developer
 - Blockchain: 
     Ethereum, Solana, ICP, Solidity, Rust, Anchor
