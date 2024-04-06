@@ -3,10 +3,10 @@
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
 -->
-### 👋 Hi , I am a ICP developer
-- Rust Developer ( based on ICP Network )
+### 👋 Hi , I am a Blockchain developer
+- Rust and Solidity Developer ( based on ICP, Solana, Ethereum Network )
 - Python Developer | AI Engineer
-- Online Casino Developer
+- Online Crypto Casino Developer
 
 👍 Summary
 -------------------------------------
