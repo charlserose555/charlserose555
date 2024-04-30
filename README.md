@@ -5,7 +5,7 @@
 -->
 ### 👋 Hi , I am a Blockchain & Full Stack developer
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
-- Python Developer | AI Engineer
+- Full Stack Developer | React, Next, Angular, Laravel
 - Online Crypto Casino Developer
 
 👍 Summary
