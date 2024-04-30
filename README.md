@@ -3,7 +3,7 @@
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
 -->
-### 👋 Hi , I am a Blockchain developer
+### 👋 Hi , I am a Blockchain & Full Stack developer
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
 - Python Developer | AI Engineer
 - Online Crypto Casino Developer
@@ -17,9 +17,6 @@
 
 🏆Portfolio
 -------------------------------------
-- Rust & ICP Development
-    - Rust Engineer at OutRankNFT
-      - Product: https://www.outrank.io/ 
-      - Product: https://icp-nft-rarity.netlify.app 
-      - Product: https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/          
-      - Stack: TypeScript + Nextjs + Rust + Dfx
+- ICP Development
+  - Product: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=xnw3f-hyaaa-aaaan-qmfjq-cai
+  - Product: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=qquvz-iyaaa-aaaan-qmf3q-cai
