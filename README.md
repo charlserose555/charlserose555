@@ -4,8 +4,8 @@
 </div>  
 -->
 ### 👋 Hi , I am a Blockchain & Full Stack developer
+- Full Stack Developer | Node, Express, React, Next, Angular, Laravel
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
-- Full Stack Developer | React, Next, Angular, Laravel
 - Online Crypto Casino Developer
 
 👍 Summary
