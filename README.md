@@ -3,7 +3,7 @@
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
 -->
-### 👋 Hi , I am a Blockchain & Full Stack developer
+### 👋 Hi , I am a Full Stack & Blockchain developer
 - Full Stack Developer | Node, Express, React, Next, Angular, Laravel
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
 - Online Crypto Casino Developer
