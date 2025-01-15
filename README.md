@@ -6,7 +6,8 @@
 ### 👋 Hi , I am a Full Stack & Blockchain developer
 - Full Stack Developer | Node, Express, React, Next, Svelte/SvelteKit, Angular, Laravel
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
-- Online Crypto Casino Developer
+- Online Crypto Gambling & Sportsbook Developer
+- Entertainment Consultant
 
 👍 Summary
 -------------------------------------
