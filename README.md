@@ -4,7 +4,7 @@
 </div>  
 -->
 ### 👋 Hi , I am a Full Stack & Blockchain developer
-- Full Stack Developer | Node, Express, React, Next, Svelte/SvelteKit, Angular, Laravel
+- Full Stack Developer | Node, Express, React, Next, Svelte/SvelteKit, Angular, Electron, Laravel
 - Rust and Solidity Developer ( based on ICP, Ethereum Network )
 - Online Crypto Gambling & Sportsbook Developer
 - Entertainment Consultant
